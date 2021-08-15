@@ -1,1 +1,5 @@
-[{"id":"c1f8aad7-1123-4a3f-98fb-a0c5075fb003","email":"donny@gmail.com","password":"$2b$10$49ka/rTWLFeD/./rC2z2o.XJFd5lNaHFSgtIRkVfm.XPtJkHb3Gqq"}]
+[
+  { "id": "cf0d320e-b48f-489f-a019-2aa86b2deb78", "email": "donny@gmail.com", "password": "$2a$10$7t9cjx2KTFH5.tKSmbR5DuinVaofqCfbJUPjdEZOCPcgUyxoyfjS6" },
+  { "id": "9e053775-0914-4bc4-85b7-d500fbc0b6d5", "email": "ansel@gmail.com", "password": "$2a$10$HsMmzeoXi7icl/gpZ5ErqOSGdemvybMJO/NjxxpZljvf1G0h3ZkxS" },
+  { "id": "c38694fd-8bba-45bf-a124-446da8221ecf", "email": "tester@gmail.com", "password": "$2a$10$3JFa5DN1U9gRXkZU7e0zGO3MmX1LvDk1qfAvBb.GueNJYafVb6CHW" }
+]
